@@ -24,7 +24,7 @@ Goal:
         4) Understanding how a server executes .php files
         5) Generating dynamic text automatically
 
-[click here](https://github.com/RaneemAlhorany/Dynamic-Greeting-Page)  
+[click here](https://github.com/NeuroCode0/Dynamic-Greeting-Page)  
 
 
 project (3) : Simple Calculator
