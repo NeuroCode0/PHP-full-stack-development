@@ -42,9 +42,13 @@ Goal :
 [click here](https://github.com/RaneemAlhorany/Simple-Calculator-in-php) 
 
 
+project (4) : Random Quote Generator
 
+Goal :
 
+    Create a Random Quote Generator using PHP
 
+[click here](https://github.com/RaneemAlhorany/Random-Quote-Generator/tree/main) 
 
 
 
