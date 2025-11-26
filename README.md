@@ -48,7 +48,7 @@ Goal :
 
     Create a Random Quote Generator using PHP
 
-[click here](https://github.com/RaneemAlhorany/Random-Quote-Generator/tree/main) 
+[click here](https://github.com/NeuroCode0/Random-Quote-Generator) 
 
 
 
