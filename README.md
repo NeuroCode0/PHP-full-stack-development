@@ -39,7 +39,7 @@ Goal :
        5) How to build logic using conditions
        6) How to print results dynamically
 
-[click here](https://github.com/RaneemAlhorany/Simple-Calculator-in-php) 
+[click here](https://github.com/NeuroCode0/Simple-Calculator-in-php) 
 
 
 project (4) : Random Quote Generator
