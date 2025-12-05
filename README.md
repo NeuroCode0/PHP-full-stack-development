@@ -60,4 +60,12 @@ Goal :
 [click here](https://github.com/NeuroCode0/Temperature-Converter-in-php/tree/main) 
 
 
-    
+
+
+    project (6) : Number Analyzer
+
+Goal :
+
+     Build a simple PHP page that takes a number from the user and analyzes it.
+ 
+[click here](https://github.com/NeuroCode0/Number-Analyzer/tree/main) 
