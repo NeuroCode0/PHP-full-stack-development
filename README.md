@@ -62,10 +62,25 @@ Goal :
 
 
 
-    project (6) : Number Analyzer
+project (6) : Number Analyzer
 
 Goal :
 
      Build a simple PHP page that takes a number from the user and analyzes it.
  
 [click here](https://github.com/NeuroCode0/Number-Analyzer/tree/main) 
+
+
+
+
+project (7) : Even / Odd Counter
+
+Goal :
+
+    Create a PHP program that allows the user to enter a number N, then:
+    Count how many even numbers exist from 1 to N  
+    Count how many odd numbers exist from 1 to N
+    Display both results clearly on the page
+
+[click here](https://github.com/NeuroCode0/Even-Odd-Counter/tree/main) 
+
