@@ -82,5 +82,20 @@ Goal :
     Count how many odd numbers exist from 1 to N
     Display both results clearly on the page
 
-[click here](https://github.com/NeuroCode0/Even-Odd-Counter/tree/main) 
+[click here](https://github.com/NeuroCode0/Even-Odd-Counter/tree/main)
+
+
+project (8) : Grade System
+
+Goal :
+
+    You will build a Grade System using PHP.
+    The program should:
+    Take a student’s score from the user (0 → 100)
+    Analyze the score
+    Display the grade based on predefined rules
+
+     
+
+[click here](https://github.com/NeuroCode0/Grade-System-using-PHP/tree/main) 
 
